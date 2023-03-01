@@ -8,7 +8,7 @@ AI Net Zero Greenwashing Detector
 
 ## Summary
 
-Many companies are  
+Many companies are pledging to move towards net zero by specific target years (like e.g. 2030). But studies found that these pledges are not followed in there acutal climate actions implemented. They actually are greenwashing their (not sufficient) climate protection activities. The AI Net Zero Greenwashing Detector will indicate if companies are green washing their net zero activities.   
 
 
 ## Background
